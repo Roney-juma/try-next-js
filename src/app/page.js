@@ -9,6 +9,8 @@ export default function Home() {
       <Image alt="image detail" src="/detail-tr.webp" width={400} height={400} className="absolute bottom-0 left-0 rotate-180"/>
       <NavBar />
       <ComingSoon />
+
+      <p className="text-[rgba(99, 105, 117, 1)] text-[14px] absolute bottom-6 left-1/2 -translate-x-1/2">&copy; 2025 Crowdcoin Limited</p>
     </div>
   )
 }
