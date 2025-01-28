@@ -7,7 +7,7 @@ export default function ComingSoon() {
             <h1 className="text-[62px] text-[#3758F9] max-md:text-[52px]">Coming Soon</h1>
             <p className="text-[#636975] text-[24px] max-md:text-[20px]">Join the waitlist</p>
 
-            <div className="flex flex-col mt-4 w-[392px] items-center bg-white rounded-md gap-2 p-2"
+            <div className="flex flex-col mt-4 w-[392px] max-md:max-w-full max-md:w-[370px] items-center bg-white rounded-md gap-2 p-2"
                 style={{
                     boxShadow: `0px 8px 12px 0px rgba(0, 0, 0, 0.1);`
                 }}
